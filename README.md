@@ -6,7 +6,7 @@ Este proyecto corresponde a la **Evaluación Parcial 1** de la asignatura **Fund
 
 ## Contenido del proyecto
 
--drive https://drive.google.com/drive/folders/1RpgAwfTtKmTIpI_AShD9NVGed9zHpbu_?usp=drive_link
+- drive https://drive.google.com/drive/folders/1RpgAwfTtKmTIpI_AShD9NVGed9zHpbu_?usp=drive_link
 - Video 
 
 ---
@@ -16,12 +16,11 @@ Este proyecto corresponde a la **Evaluación Parcial 1** de la asignatura **Fund
 - Python 3.10 o superior.
 - Librerías necesarias (instalables mediante `requirements.txt`):
 - numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-missingno
-
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- missingno
 - Jupyter Notebook para visualizar y ejecutar el análisis.
 
 ---
@@ -32,41 +31,42 @@ missingno
 
 2. Crear un entorno virtual (recomendado):
 
-bash
+bash``` 
 Copiar código
-python -m venv venv
+python -m venv venv```
 3. Activar el entorno virtual:
 
 Windows:
 
-bash
+bash```
 Copiar código
-venv\Scripts\activate
+venv\Scripts\activate```
 Linux / Mac:
 
-bash
+bash```
 Copiar código
-source venv/bin/activate
+source venv/bin/activate```
 4. Instalar las dependencias:
 
-bash
+bash```
 Copiar código
-pip install -r requirements.txt
+pip install -r requirements.txt```
+
 Uso
 5. Abrir el notebook:
 
-bash
+bash```
 Copiar código
-jupyter notebook notebook.ipynb
+jupyter notebook notebook.ipynb```
 6. Seguir el flujo del notebook, que incluye:
 
-Comprensión del negocio y los datos: análisis de las variables, tipos de datos y contexto del hospital.
+- Comprensión del negocio y los datos: análisis de las variables, tipos de datos y contexto del hospital.
 
-Análisis exploratorio de datos (EDA): estadísticas descriptivas, distribución de variables, correlaciones y visualizaciones.
+- Análisis exploratorio de datos (EDA): estadísticas descriptivas, distribución de variables, correlaciones y visualizaciones.
 
-Detección y tratamiento de valores faltantes y atípicos.
+- Detección y tratamiento de valores faltantes y atípicos.
 
-Transformaciones de datos: normalización, estandarización y codificación de variables.
+- Transformaciones de datos: normalización, estandarización y codificación de variables.
 
 Preparación de targets: para tareas de regresión y clasificación según el caso.
 
