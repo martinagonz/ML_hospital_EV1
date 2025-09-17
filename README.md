@@ -4,10 +4,11 @@ Este proyecto corresponde a la **Evaluación Parcial 1** de la asignatura **Fund
 
 ---
 
-## Contenido del proyecto
+## Contenido primera entrega
 
 - drive https://drive.google.com/drive/folders/1RpgAwfTtKmTIpI_AShD9NVGed9zHpbu_?usp=drive_link
-- Video 
+- Video Notebook: https://drive.google.com/file/d/161VQnNmgvgxEceRi6aeWOpwESYDX30Hc/view?usp=sharing
+- Video Kedro: https://drive.google.com/file/d/1KER7dLGDQB4TnOZGYtrHmLLGeBLYUX3r/view?usp=drive_link
 
 ---
 
